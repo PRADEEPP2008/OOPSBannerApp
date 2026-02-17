@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class OOPSBannerAppUC1 {
     public static void main(String[] args) {
         System.out.println("Welcome to the OPPS Banner App!");
         
